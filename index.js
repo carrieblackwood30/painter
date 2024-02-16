@@ -102,7 +102,7 @@ colorPicker.addEventListener("change", (e) =>{
 })
 
 remove.addEventListener("click", () =>{
-    color = 'transparent'
+    color = '#f5f5f5'
 })
 
 clearBtn.addEventListener("click",  () =>{
